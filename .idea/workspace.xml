@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effb0f8b-e3a8-457c-be10-bf1b508eb727" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson.2Коментарі.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3 operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 if else цикл.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5 while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6  for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7 continue, break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/llesson8 str.py" afterDir="false" />
+    <list default="true" id="effb0f8b-e3a8-457c-be10-bf1b508eb727" name="Changes" comment="ок">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,38 +43,17 @@
     "Python.lesson5 while.executor": "Run",
     "Python.lesson6  for.executor": "Run",
     "Python.lesson7 continue, break.executor": "Run",
+    "Python.lesson9 st mathods-методи.executor": "Run",
     "Python.llesson8 str.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.llesson8 str">
-    <configuration name="lesson4 if else цикл" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonDemo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\10\PycharmProjects\PythonDemo\lesson4 if else цикл.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.lesson9 st mathods-методи">
     <configuration name="lesson5 while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonDemo" />
       <option name="ENV_FILES" value="" />
@@ -154,6 +120,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson9 st mathods-методи" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonDemo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson9 st mathods-методи.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="llesson8 str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonDemo" />
       <option name="ENV_FILES" value="" />
@@ -178,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson9 st mathods-методи" />
         <item itemvalue="Python.llesson8 str" />
         <item itemvalue="Python.lesson7 continue, break" />
         <item itemvalue="Python.lesson6  for" />
         <item itemvalue="Python.lesson5 while" />
-        <item itemvalue="Python.lesson4 if else цикл" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +190,19 @@
       <option name="presentableId" value="Default" />
       <updated>1740602000258</updated>
     </task>
+    <task id="LOCAL-00001" summary="ок">
+      <option name="closed" value="true" />
+      <created>1740861218203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740861218203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ок" />
+    <option name="LAST_COMMIT_MESSAGE" value="ок" />
   </component>
 </project>
