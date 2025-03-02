@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="effb0f8b-e3a8-457c-be10-bf1b508eb727" name="Changes" comment="ок">
+      <change afterPath="$PROJECT_DIR$/Homworkt/hw-core3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homworkt/hw-core4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homworkt/hw-st-core-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homworkt/hw-st-core2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/Lesson1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson.2Коментарі.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson.2Коментарі.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3 operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson3 operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4 if else цикл.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson4 if else цикл.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5 while.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson5 while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6  for.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson6  for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7 continue, break.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson7 continue, break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9 st mathods-методи.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson9 st mathods-методи.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llesson8 str.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/llesson8 str.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NataliaScrypnichenko"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NataliaScrypnichenko/PythonDemo.git",
+    "accountId": "9e9d7ccc-9840-4054-959b-fddf753edc53"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -37,24 +62,32 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Lesson1.executor": "Run",
+    "Python.hw-core3.executor": "Run",
     "Python.lesson.2Коментарі.executor": "Run",
     "Python.lesson3 operators.executor": "Run",
     "Python.lesson4 if else.executor": "Run",
     "Python.lesson5 while.executor": "Run",
     "Python.lesson6  for.executor": "Run",
     "Python.lesson7 continue, break.executor": "Run",
+    "Python.lesson9 st mathods-методи (1).executor": "Run",
     "Python.lesson9 st mathods-методи.executor": "Run",
+    "Python.llesson8 str (1).executor": "Run",
     "Python.llesson8 str.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lesson9 st mathods-методи">
-    <configuration name="lesson5 while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10\PycharmProjects\PythonDemo\lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lesson9 st mathods-методи (1)">
+    <configuration name="hw-core3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonDemo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homworkt" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5 while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homworkt/hw-core3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson6  for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson9 st mathods-методи (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonDemo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,33 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson6  for.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson7 continue, break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonDemo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson7 continue, break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson9 st mathods-методи.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +144,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson9 st mathods-методи.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\10\PycharmProjects\PythonDemo\lessons\lesson9 st mathods-методи.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="llesson8 str (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonDemo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/llesson8 str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +188,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/llesson8 str.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\10\PycharmProjects\PythonDemo\lessons\llesson8 str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson9 st mathods-методи (1)" />
+        <item itemvalue="Python.hw-core3" />
+        <item itemvalue="Python.llesson8 str (1)" />
         <item itemvalue="Python.lesson9 st mathods-методи" />
         <item itemvalue="Python.llesson8 str" />
-        <item itemvalue="Python.lesson7 continue, break" />
-        <item itemvalue="Python.lesson6  for" />
-        <item itemvalue="Python.lesson5 while" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +215,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\10\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="effb0f8b-e3a8-457c-be10-bf1b508eb727" name="Changes" comment="" />
@@ -198,8 +234,27 @@
       <option name="project" value="LOCAL" />
       <updated>1740861218203</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ок">
+      <option name="closed" value="true" />
+      <created>1740939859230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740939859230</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ок" />
